@@ -1,8 +1,7 @@
 <!--##  Algorithm
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kal990574)](https://solved.ac/kal990574/)
   -->
- <br><p align="center">🛠 Tech Stack 🛠</p>
-</br>
+ <h3><p align="center">🛠 Tech Stack 🛠</p></h3>
  <p align="center">
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
