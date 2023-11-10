@@ -1,9 +1,10 @@
-<!--## Algorithm
+## Algorithm
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kal990574)](https://solved.ac/kal990574/)
--->
- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+</br>
+## Tech Stack
  </br>
- <p align="center">
+ <p>
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
  <img src="https://img.shields.io/badge/Unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
