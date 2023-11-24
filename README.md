@@ -1,8 +1,8 @@
-## Algorithm
+### 💡  BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kal990574)](https://solved.ac/kal990574/)
 </br>
 </br>
-## Tech Stack
+### 🎈 Interest
  </br>
  <p>
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
