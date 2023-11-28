@@ -1,4 +1,4 @@
-<div align = "center">
+
 
 #### 💡 Algorithm
 </br>
@@ -18,7 +18,8 @@
  <img src="https://img.shields.io/badge/Unity engine-000000?style=for-the-badge&logo=unity&logoColor=white"> 
  </p>
 
-</div></br></br>
+
+</br></br>
 
 **kal990574/kal990574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
